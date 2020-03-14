@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "DesignPattern-.Net\Facade.csproj", "{3731118D-07AD-4292-AC92-C177D5B20718}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9D88DE65-8B0C-4188-9CF5-C6A2FEA604CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{00ED1A81-FC58-402E-8623-2146A827C939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeTest", "FacadeTest\FacadeTest.csproj", "{8B856E14-2E8A-40ED-8B3A-239B94773066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3731118D-07AD-4292-AC92-C177D5B20718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3731118D-07AD-4292-AC92-C177D5B20718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3731118D-07AD-4292-AC92-C177D5B20718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3731118D-07AD-4292-AC92-C177D5B20718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B856E14-2E8A-40ED-8B3A-239B94773066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B856E14-2E8A-40ED-8B3A-239B94773066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B856E14-2E8A-40ED-8B3A-239B94773066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B856E14-2E8A-40ED-8B3A-239B94773066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3731118D-07AD-4292-AC92-C177D5B20718} = {9D88DE65-8B0C-4188-9CF5-C6A2FEA604CB}
+		{8B856E14-2E8A-40ED-8B3A-239B94773066} = {00ED1A81-FC58-402E-8623-2146A827C939}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31883EC0-FF41-4AE1-AD85-C7898E38F57A}
+	EndGlobalSection
+EndGlobal

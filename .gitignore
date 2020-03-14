@@ -3,3 +3,11 @@
 ################################################################################
 
 /DesignPattern/DesignPattern_Facade/.vs
+*.sqlite
+/.vs
+/DesignPattern-.Net/bin/Debug/netcoreapp3.1
+/DesignPattern-.Net/obj/Debug/netcoreapp3.1
+/DesignPattern-.Net/obj
+/FacadeTest/bin/Debug/netcoreapp3.1
+/FacadeTest/obj/Debug/netcoreapp3.1
+/FacadeTest/obj
